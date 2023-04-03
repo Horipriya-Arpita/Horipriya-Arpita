@@ -5,7 +5,7 @@
 
 
 <p align="center" width="150px"> 
- I am currently pursuing my undergraduate degree in Software Engineering at SUST, and I am absolutely passionate about exploring new things. I believe that there is always something new to learn, and I strive to challenge myself every day to grow both as a person and as a programmer.
+I am currently pursuing my undergraduate degree in Software Engineering at SUST, and I am absolutely passionate about exploring new things. I believe that there is always something new to learn, and I strive to challenge myself every day to grow both as a person and as a programmer.
 
 In recent times, I have been focusing on enhancing my competitive programming skills. Apart from these, I have a few hobbies that keep me grounded and help me relax. I love to draw and create art, and I find it to be a great way to express myself. I also enjoy singing and find it a great stress reliever.
 
